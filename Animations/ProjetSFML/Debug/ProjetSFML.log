@@ -1,0 +1,13 @@
+﻿La génération a démarré 24/01/2017 13:01:04.
+     1>Projet "C:\Users\Etudiant 1\Desktop\Animations\ProjetSFML\ProjetSFML.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Etudiant 1\Desktop\Animations\Debug\animations.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib "csfml-system-2.lib" "csfml-window-2.lib" "csfml-graphics-2.lib" "csfml-audio-2.lib" "csfml-network-2.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Etudiant 1\Desktop\Animations\Debug\animations.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Etudiant 1\Desktop\Animations\Debug\animations.lib" /MACHINE:X86 Debug\fonctions.obj
+         Debug\game.obj
+         Debug\main.obj
+         Debug\stdafx.obj
+         ProjetSFML.vcxproj -> C:\Users\Etudiant 1\Desktop\Animations\Debug\animations.exe
+     1>Génération du projet "C:\Users\Etudiant 1\Desktop\Animations\ProjetSFML\ProjetSFML.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.15

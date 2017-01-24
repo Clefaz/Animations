@@ -1,0 +1,25 @@
+﻿La génération a démarré 24/01/2017 12:59:44.
+     1>Projet "C:\Users\Etudiant 1\Desktop\Animations\ProjetSFML\ProjetSFML.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SansTitre.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\include\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt game.cpp
+         game.cpp
+     1>game.cpp(12): warning C4098: 'ChargementSprites' : fonction 'void' retournant une valeur
+     1>game.cpp(78): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>game.cpp(80): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Etudiant 1\Desktop\Animations\Release\animations.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\lib "csfml-system-2.lib" "csfml-window-2.lib" "csfml-graphics-2.lib" "csfml-audio-2.lib" "csfml-network-2.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Etudiant 1\Desktop\Animations\Release\animations.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Etudiant 1\Desktop\Animations\Release\animations.lib" /MACHINE:X86 /SAFESEH Release\fonctions.obj
+         Release\game.obj
+         Release\main.obj
+         Release\stdafx.obj
+         Génération de code en cours
+         1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           1 functions had inline decision re-evaluated but remain unchanged
+         Fin de la génération du code
+         ProjetSFML.vcxproj -> C:\Users\Etudiant 1\Desktop\Animations\Release\animations.exe
+     1>Génération du projet "C:\Users\Etudiant 1\Desktop\Animations\ProjetSFML\ProjetSFML.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.53

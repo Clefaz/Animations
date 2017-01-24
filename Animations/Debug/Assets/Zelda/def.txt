@@ -1,0 +1,2 @@
+SPRITES 20 Assets/Zelda/haut1.png Assets/Zelda/haut2.png Assets/Zelda/haut3.png Assets/Zelda/haut4.png Assets/Zelda/haut5.png Assets/Zelda/bas1.png Assets/Zelda/bas2.png Assets/Zelda/bas3.png Assets/Zelda/bas4.png Assets/Zelda/bas5.png Assets/Zelda/gauche1.png Assets/Zelda/gauche2.png Assets/Zelda/gauche3.png Assets/Zelda/gauche4.png Assets/Zelda/gauche5.png Assets/Zelda/droite1.png Assets/Zelda/droite2.png Assets/Zelda/droite3.png Assets/Zelda/droite4.png Assets/Zelda/droite5.png
+ANIM <nom animation> <image de début> <image de fin> <temps par image>

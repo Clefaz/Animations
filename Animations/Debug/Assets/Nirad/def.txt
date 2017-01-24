@@ -1,0 +1,2 @@
+SPRITES 20 Assets/Nirad/haut1.png Assets/Nirad/haut2.png Assets/Nirad/haut3.png Assets/Nirad/haut4.png Assets/Nirad/haut5.png Assets/Nirad/bas1.png Assets/Nirad/bas2.png Assets/Nirad/bas3.png Assets/Nirad/bas4.png Assets/Nirad/bas5.png Assets/Nirad/gauche1.png Assets/Nirad/gauche2.png Assets/Nirad/gauche3.png Assets/Nirad/gauche4.png Assets/Nirad/gauche5.png Assets/Nirad/droite1.png Assets/Nirad/droite2.png Assets/Nirad/droite3.png Assets/Nirad/droite4.png Assets/Nirad/droite5.png
+ANIM <nom animation> <image de début> <image de fin> <temps par image>
